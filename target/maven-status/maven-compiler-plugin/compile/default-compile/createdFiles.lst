@@ -1,0 +1,7 @@
+com\cts\usermanagement\dao\UserDao.class
+com\cts\usermanagement\feign\AuthClient.class
+com\cts\usermanagement\model\AppUser.class
+com\cts\usermanagement\service\UserService.class
+com\cts\usermanagement\controller\UserController.class
+com\cts\usermanagement\model\JwtResponse.class
+com\cts\usermanagement\UserManagementApplication.class
